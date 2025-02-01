@@ -33,7 +33,7 @@ body {
 }
 .cabecalho__menu__link{
     font-family: var(--fonte-secundaria);
-    font-size: 23px;
+    font-size: 1.5rem;
     font-weight: 600;
     color: var(--cor-terciaria);
     text-decoration: none;
@@ -54,7 +54,7 @@ body {
 }
 
 .apresentacao__conteudo__titulo{
-    font-size: 36px;
+    font-size: 2.25rem;
     font-family:var(--fonte-primaria);
 }
 
@@ -63,7 +63,7 @@ body {
 }
 
 .apresentacao__conteudo__paragrafo{
-    font-size: 24px;
+    font-size: 1.5rem;
     font-family: var(--fonte-secundaria);
 
 }
@@ -80,7 +80,7 @@ body {
 .links__redes__subtitulo{
     font-family: var(--fonte-primaria);
     font-weight: 400;
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 
 .links__redes__sociais{
@@ -92,7 +92,7 @@ body {
     width: 200px;
     text-align: center;
     border-radius: 30px;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     padding: 22px 0;
     text-decoration: none;
@@ -110,6 +110,6 @@ body {
     background-color: var(--cor-terciaria);
     text-align: center;
     font-family: var(--fonte-secundaria);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 400;
 }
