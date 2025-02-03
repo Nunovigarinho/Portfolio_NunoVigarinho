@@ -71,9 +71,9 @@ body {
 .links__redes{
     padding: 5% 13%;
     display: flex;
-    flex-direction: row;
+    flex-direction: inherit;
     align-items: center;
-    justify-content: flex-start;
+    justify-content: space-around;
     gap: 32px;
 }
 
@@ -89,9 +89,9 @@ body {
     justify-content: center;
     gap: 15px;
     border: 3px inset var(--cor-terciaria);
-    width: 200px;
+    width: 500px;
     text-align: center;
-    border-radius: 30px;
+    border-radius: 35px;
     font-size: 1.5rem;
     font-weight: 600;
     padding: 22px 0;
@@ -102,6 +102,12 @@ body {
 
 .links__redes__sociais:hover{
     background-color: var(--cor-hover);
+}
+.apresentacao__imagem{
+   width: 20%; 
+   border: 3px inset var(--cor-terciaria);
+   border-radius: 35px;
+
 }
 
 .rodape{
